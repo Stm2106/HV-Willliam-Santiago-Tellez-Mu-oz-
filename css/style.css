@@ -1,0 +1,283 @@
+body {
+margin: 0%;
+padding: 0%;
+background-color: rgb(226, 226, 224);
+
+}
+header {
+margin: 0%;
+padding: 0%;
+
+
+background-color: black; 
+color: antiquewhite; 
+text-align: center;
+
+}
+.nombre123{
+    text-align: center;
+    margin-top: 0%;
+    margin-left: 5cm;
+
+}
+footer{
+color:azure ;
+background-color: black;
+text-align: center;
+display:  flex;
+}
+.foto1{
+    margin-left: 12cm;
+  
+}
+.fotoperfil{
+    text-align: left;
+    margin-left: 1cm;
+ 
+    display: flex;
+
+}
+#numcor{
+    margin-top: -10%;
+    text-align: left;
+    margin-left: 10.5cm;
+    display: flex;
+}
+.correo{
+    margin-left: 10cm;
+}
+#direCiu{
+    margin-top: -1%;
+    text-align: left;
+    margin-left: 10.5cm;
+    display: flex;
+}
+.direccion1{
+    margin-left: 8.8cm; 
+}
+#fechacedula{
+    margin-top: -1%;
+    text-align: left;
+    margin-left: 10.5cm;
+    display: flex;
+}
+.cedula{
+    margin-left: 4.8cm;
+}
+.foto{
+    display: flex;
+    margin-left: 0.5cm;
+    padding-top: 1%;
+}
+.nombre{
+    margin-left: 3.8cm;}
+
+#pfhb{
+    text-align: left;
+    margin-left: 8.8cm;
+    display: flex;
+    margin-top:1.5cm;
+}  
+.habilidades{
+    margin-left: 11cm;
+    background-color: rgb(177, 177, 175);
+}
+    
+
+p{
+    margin-left: 2cm;
+    font-size: 20px;
+}
+
+.FOR{
+  margin-left: 2cm;  
+  margin-top: 1.5cm;
+}
+
+#bachiller{
+    margin-left: 5cm;
+    margin-top: 0.5cm;
+    display: flex;
+}
+.bachi1{
+    margin-left: 3cm;
+    
+}
+
+
+.ciudad{
+    margin-left: 5cm;
+    margin-top: -1cm;
+    display: flex; 
+}
+.col{
+    margin-left: 2.4cm;
+    color: #686866;
+}
+
+#sena{
+    margin-left: 5cm;
+    margin-top: 0.5cm;
+    display: flex
+}
+.sena{
+    margin-left: 2.9cm;
+
+}
+#city{
+    margin-left: 5cm;
+    margin-top: -1cm;
+    display: flex  
+}
+
+
+.Sena12{
+    margin-left: 2.3cm;
+    color: #686866;
+}
+#ASW{
+    margin-left: 5cm;
+    margin-top: 0.2cm;
+    display: flex  
+}
+
+
+.AMER{
+    margin-left: 2.75cm;
+}
+#city1{
+    margin-left: 5cm;
+    margin-top: -1cm;
+    display: flex  
+}
+
+
+.inst{
+    margin-left: 2.3cm;
+    color: #686866;
+}
+#cursosena{
+    margin-left: 5cm;
+    margin-top: 0.2cm;
+    display: flex  
+}
+
+
+.cur1{
+    margin-left: 2.9cm;
+}
+#ciusena{
+    margin-left: 5cm;
+    margin-top: -1cm;
+    display: flex  
+}
+
+
+.inst123{
+    margin-left: 2.3cm;
+    color: #686866;
+}
+#cursosena123{
+    margin-left: 5cm;
+    margin-top: 0.3cm;
+    display: flex  
+}
+
+
+.cur123{
+    margin-left: 2.9cm;
+}
+#ciusena123{
+    margin-left: 5cm;
+    margin-top: -1cm;
+    display: flex  
+}
+
+
+.inst1234{
+    margin-left: 2.3cm;
+    color: #686866;
+}
+#EXPERIENCIA{
+    margin-left: 5cm;
+    margin-top: 0.6cm;
+    display: flex  
+}
+
+
+.exper{
+    margin-left: 2.9cm;
+}
+#ciuexpe{
+    margin-left: 5cm;
+    margin-top: -1cm;
+    display: flex  
+}
+
+
+.lugarexp{
+    margin-left: 2.3cm;
+    margin-bottom: 5cm;
+    color: #686866;
+}
+p{
+    border-left: 3px;
+}
+
+#habili{
+    margin-left: 26.5cm;
+    margin-top: -3.5cm;
+    
+}
+#titulos{
+display: flex;
+}
+.idio{
+    margin-left: 12.7cm;
+    margin-top: 1.5cm;
+    background-color: rgb(177, 177, 175);
+
+}
+.español{
+    margin-left: 7.2cm;
+   
+}
+.ingles{
+    margin-left: 27.3cm;
+    margin-top: -0.5cm;
+   
+}
+.ref{
+ margin-left: 26.9cm;   
+ margin-top: -1.2cm;
+ background-color: rgb(177, 177, 175);
+
+}
+
+.amiga{
+margin-left: 6.8cm;
+}
+
+.amix{
+    margin-left: 14cm;
+    color: #686866;
+    }
+    .rflab{
+        margin-left: 27.1cm;
+        margin-top: -1.3cm;
+        background-color: rgb(177, 177, 175);
+
+        }
+.FOR1{
+    margin-left: 2cm;
+}
+
+.jefe{
+    margin-left: 9.5cm;
+}
+
+.jefe1{
+    margin-left: 10cm;
+    color: #686866; 
+}
+
